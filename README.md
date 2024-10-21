@@ -3,6 +3,6 @@
  emotions from text data. 
 * Handled null values and applied tokenizer
  methods for text preprocessing.
-*Utilized techniques like one-hot
+* Utilized techniques like one-hot
  encoding,
-Implemented a neural network architecture using Keras.
+* Implemented a neural network architecture using Keras.
